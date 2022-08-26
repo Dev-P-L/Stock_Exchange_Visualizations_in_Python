@@ -1,3 +1,11 @@
 # Stock_Exchange_Visualizations_in_Python
 
-Project in progress
+In this project, I will focus on interactive stock quote visualizations in Python. Data have been extracted from Yahoo! Finance . They relate to the stocks of eight financial institutions over the period starting in 2000. 
+
+There are two files in this repository:
+* README.md,
+* SE.html.
+
+To open SE.html, you just need to activate ...
+
+TAGS: stock exchange quotes, interactive visualizations, Python, Bollinger Band® charts, candlestick charts, line charts, highest/lowest prices and returns, return scatter matrices, return correlation matrices
