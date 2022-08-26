@@ -6,6 +6,6 @@ There are two files in this repository:
 * README.md,
 * SE.html.
 
-To open SE.html, you just need to activate ...
+To open SE.html, you just need to activate https://dev-p-l.github.io/Stock_Exchange_Visualizations_in_Python/SE.html.
 
 TAGS: stock exchange quotes, interactive visualizations, Python, Bollinger Band® charts, candlestick charts, line charts, highest/lowest prices and returns, return scatter matrices, return correlation matrices
