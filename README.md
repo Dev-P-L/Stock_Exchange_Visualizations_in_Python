@@ -1,6 +1,6 @@
 # Stock_Exchange_Visualizations_in_Python
 
-In this project, I will focus on interactive stock quote visualizations in Python. Data have been extracted from Yahoo! Finance . They relate to the stocks of eight financial institutions over the period starting in 2000. 
+In this project, I will focus on interactive stock quote visualizations in Python. Data have been extracted from Yahoo! Finance . They relate to the stocks of eight financial institutions over 2001. 
 
 There are two files in this repository:
 * README.md,
