@@ -1,4 +1,4 @@
-# Acces to HTML Document
+# Acces to HTML Output Document
 
 https://dev-p-l.github.io/Stock_Exchange_Visualizations_in_Python/SE.html
 
