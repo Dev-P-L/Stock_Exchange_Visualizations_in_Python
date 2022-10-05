@@ -3,6 +3,7 @@
 https://dev-p-l.github.io/Stock_Exchange_Visualizations_in_Python/SE.html
 
 <br>
+<br>
 
 # Swift Presentation of Project on
 # Stock Exchange Visualizations in Python
